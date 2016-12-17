@@ -18,7 +18,7 @@
       Utils.progressbar.start();
 
       // Facebook.login();
-      Facebook.loginWev();
+      Facebook.loginWeb();
     }
 
     function SignupFacebook(evt, obj) {

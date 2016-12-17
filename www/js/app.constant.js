@@ -10,9 +10,9 @@
       'APP_ID': '628943173897687'
     },
     'GOOGLE': {
-      'API_KEY': 'AIzaSyDTVFJVhqRTx0-EZADEmMz2giGlyRbzRbw',
+      'API_KEY': 'AIzaSyAZoLCaQffdxP_HbL8ELJIqDIXfYpRb8kk',
       'DOCS': 'https://people.googleapis.com/$discovery/rest?version=v1',
-      'CLIENT_ID': '490787298478-l9t0v16t4es8h8hnset7h18nab6l1gju.apps.googleusercontent.com',
+      'CLIENT_ID': '654704351091-v9lptj1dp5nnoefnjfr1b123hmnu6h2b.apps.googleusercontent.com',
     }
   };
 
