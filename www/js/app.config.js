@@ -59,8 +59,6 @@
       });
 
       $urlRouterProvider.otherwise('/login');
-
-    $ionicConfigProvider.scrolling.jsScrolling(true);
   }
 
   angular
