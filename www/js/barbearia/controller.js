@@ -31,7 +31,7 @@
       marker = new google.maps.Marker({
         position: lat_lng,
         map: map,
-        icon: '../../img/marker.png',
+        icon: './img/marker.png',
         animation: google.maps.Animation.DROP
       });
 
