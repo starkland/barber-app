@@ -116,6 +116,7 @@
 
     return {
       login: _login,
+      loginWeb: _loginWeb,
       signup: _signup
     }
   }
