@@ -1,16 +1,14 @@
 (function() {
   'use strict';
 
-  function BarbeariaCtrl() {
+  function BarbeariaCtrl($scope) {
     var vm;
 
     vm = this;
 
     // ====
 
-    angular.element(document).ready(function() {
-      initMap();
-    });
+    initMap();
 
     // ====
 
@@ -37,7 +35,9 @@
     }
   }
 
-  BarbeariaCtrl.$inject = [];
+  BarbeariaCtrl.$inject = [
+    '$scope'
+  ];
 
   angular
   .module('Barber.barbearia')
