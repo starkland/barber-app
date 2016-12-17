@@ -7,7 +7,7 @@
     'API_URL': 'http://localhost:3000',
     'API_URL_PROD': 'https://minhaagenda-api.herokuapp.com',
     'FACEBOOK': {
-      'APP_ID': '1403969292947889'
+      'APP_ID': '628943173897687'
     },
     'GOOGLE': {
       'API_KEY': 'AIzaSyDTVFJVhqRTx0-EZADEmMz2giGlyRbzRbw',

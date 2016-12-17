@@ -58,7 +58,7 @@
         controllerAs: 'vm'
       });
 
-      $urlRouterProvider.otherwise('/');
+      $urlRouterProvider.otherwise('/login');
 
     $ionicConfigProvider.scrolling.jsScrolling(true);
   }
