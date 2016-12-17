@@ -6,3 +6,4 @@ platforms/
 plugins/
 .io-config.json
 www/lib/
+.DS_Store

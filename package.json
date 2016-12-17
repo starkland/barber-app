@@ -1,7 +1,7 @@
 {
-  "name": "barber",
+  "name": "barber-app",
   "version": "1.1.1",
-  "description": "barber: An Ionic project",
+  "description": "App",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
